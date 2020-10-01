@@ -1,6 +1,6 @@
 Problem : **Given an array of distinct elements. The task is to find triplets in the array whose sum is zero.**
 
-Method : This method uses Sorting to arrive at the correct result and is solved in O(n^2) time.
+Method : This method uses Sorting algorithm to arrive at the correct result and is solved in O(n^2) time.
 
 Approach: 
 The above method requires extra space. The idea is based on method 2 of this post. For every element check that there is a pair whose sum is equal to the negative value of that element.
